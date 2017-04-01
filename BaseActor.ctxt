@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BaseActor()
+comment1.params=t
+comment1.target=void\ setTexture(com.badlogic.gdx.graphics.Texture)
+comment2.params=
+comment2.target=com.badlogic.gdx.math.Rectangle\ getBoundingRectangle()
+comment3.params=dt
+comment3.target=void\ act(float)
+comment4.params=batch\ parentAlpha
+comment4.target=void\ draw(com.badlogic.gdx.graphics.g2d.Batch,\ float)
+numComments=5

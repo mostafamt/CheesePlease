@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AnimatedActor()
+comment1.params=a
+comment1.target=void\ setAnimation(com.badlogic.gdx.graphics.g2d.Animation)
+comment2.params=dt
+comment2.target=void\ act(float)
+comment3.params=batch\ parentAlpha
+comment3.target=void\ draw(com.badlogic.gdx.graphics.g2d.Batch,\ float)
+numComments=4

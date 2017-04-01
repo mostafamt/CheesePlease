@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=CheeseLevel(com.badlogic.gdx.Game)
+comment1.params=
+comment1.target=void\ create()
+comment2.params=dt
+comment2.target=void\ render(float)
+comment3.params=width\ height
+comment3.target=void\ resize(int,\ int)
+comment4.params=
+comment4.target=void\ pause()
+comment5.params=
+comment5.target=void\ resume()
+comment6.params=
+comment6.target=void\ dispose()
+comment7.params=
+comment7.target=void\ show()
+comment8.params=
+comment8.target=void\ hide()
+numComments=9
